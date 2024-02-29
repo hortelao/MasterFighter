@@ -16,8 +16,8 @@ C - Player 2 attack.
 
 TEAM Members:
 
-Ricardo Oliveira
-Marco Martins
+Ricardo Oliveira \n
+Marco Martins \n
 Pedro Moreira
 Rafael Magalhães
 André Hortelão
