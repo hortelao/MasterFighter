@@ -5,21 +5,21 @@ Welcome to "Master Fighter" a thrilling arcade-style fighting game set in the va
 
 <img src="https://img.itch.zone/aW1hZ2UvMjUzNDQwMi8xNTA3NDM5NS5qcGc=/original/j7eHqY.jpg">
 
-SPACE - Start the game.
-LEFT - Player 1 move left.
-RIGHT - Player 1 move right.
-L - Player 1 attack
-A - Player 2 move left.
-D - Player 2 move right.
-C - Player 2 attack.
+<p>SPACE - Start the game.</p>
+<p>LEFT - Player 1 move left.</p>
+<p>RIGHT - Player 1 move right.</p>
+<p>L - Player 1 attack</p>
+<p>A - Player 2 move left.</p>
+<p>D - Player 2 move right.</p>
+<p>C - Player 2 attack.</p>
 
 
-TEAM Members:
+<h2>TEAM Members:</h2>
 
 <p>Ricardo Oliveira</p>
-Marco Martins
-Pedro Moreira
-Rafael Magalhães
-André Hortelão
+<p>Marco Martins</p>
+<p>Pedro Moreira</p>
+<p>Rafael Magalhães</p>
+<p>André Hortelão</p>
 
 Programmed in Java
